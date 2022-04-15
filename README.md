@@ -9,7 +9,7 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 
 - 👯 Pronouns: **he/him or they/them**
 
-- ⚡ What I like to do: **I like so much reading, gaming and drawing**
+- ⚡ What I like to do: **I like to read mangas and watch anime**
 <br>
 <div align='center'>
 	<a href='https://github.com/lirena00'>
