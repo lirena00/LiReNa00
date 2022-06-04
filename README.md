@@ -19,3 +19,8 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 		<img src='https://activity-graph.herokuapp.com/graph?username=lirena00&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
 	</a>
 </div>
+<br>
+<div align='center'>
+<a href='https://stackoverflow.com/users/13875145/'>
+<img width="49.5%" src='https://github-readme-stackoverflow.vercel.app/?userID=13875145&theme=dark'>
+</div>
