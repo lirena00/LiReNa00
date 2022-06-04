@@ -22,5 +22,5 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 <br>
 <div align='center'>
 <a href='https://stackoverflow.com/users/13875145/'>
-<img width="49.5%" src='https://github-readme-stackoverflow.vercel.app/?userID=13875145&theme=dark'>
+<img width="20%" src='https://github-readme-stackoverflow.vercel.app/?userID=13875145&theme=dark'>
 </div>
