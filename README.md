@@ -5,11 +5,11 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 
 - 🔭 I’m currently a student
 
-- 🌱 I’m currently learning **Programming and Pixel Arts**
+- 🌱 I’m currently learning **Programming** ofc
 
-- 👯 Pronouns: **he/him or they/them**
+- 👯 Pronouns: **he/him**
 
-- ⚡ What I like to do: **I like to read mangas and watch anime**
+- ⚡ What I like to do: **I like to read mangas and watch anime other than that I draw and write in spare time**
 <br>
 <h3 align="center">
 <b>Github Stats</b>
