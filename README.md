@@ -39,23 +39,14 @@ Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by nam
 <hr>
 <br>
 <div align='center'>
-	<a href='https://discord.com/channels/@me/748468646975766619'>
-		<img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'>
-	</a>
 	<a href = 'https://stackoverflow.com/users/13875145/saksham-kushwaha'>
 		<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'>
 	</a>
 	<a href='https://leetcode.com/lirena00/'>
 		<img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'>
 	</a>
-	<a href='https://www.reddit.com/user/lirena_kiyuga'>
-		<img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white'>
-	</a>
-	<a href='https://open.spotify.com/user/31ybm6msinbhnsceabjrktonvexm'>
-		<img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'>
-	</a>
-	<a href='https://twitter.com/LiReNa_KiYuGa'>
-		<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
+	<a href='https://twitter.com/lirena00'>
+		<img src='https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white'>
 	</a>
 </div>
 
