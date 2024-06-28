@@ -1,7 +1,7 @@
 <h1 align="center">
 <b>Hi 👋, I'm Lirena</b>
 </h1>
-I made my [this site](https://www.lirena.in/) for a reason so.... head over there
+I made <a href="https://www.lirena.in/">portfolio site</a> for a reason so.... head over there
 <br>
 <h3 align="center">
 <b>Github Stats</b>
