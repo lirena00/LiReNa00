@@ -1,15 +1,7 @@
 <h1 align="center">
 <b>Hi 👋, I'm Lirena</b>
 </h1>
-Well hello there I am Saksham Kushwaha ,a student who lives in India.I go by name Lirena on social media sites.
-
-- 🔭 I’m currently a student
-
-- 🌱 I’m currently learning **Programming** ofc
-
-- 👯 Pronouns: **he/him**
-
-- ⚡ What I like to do: **I like to read mangas and watch anime other than that I draw and write in spare time**
+I made my [this site](https://www.lirena.in/) for a reason so.... head over there
 <br>
 <h3 align="center">
 <b>Github Stats</b>
