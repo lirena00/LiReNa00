@@ -40,5 +40,6 @@ I made <a href="https://www.lirena.in/">portfolio site</a> for a reason so.... h
 	<a href='https://twitter.com/lirena00'>
 		<img src='https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white'>
 	</a>
+	<img src="https://komarev.com/ghpvc/?username=LiReNa00&style=for-the-badge&color=1f6feb" alt="Profile views" />
 </div>
 
