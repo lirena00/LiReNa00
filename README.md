@@ -9,7 +9,7 @@ I made <a href="https://www.lirena.in/">portfolio site</a> for a reason so.... h
 <div align='center'>
 	<a href='https://github.com/lirena00'>
 		<img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=LiReNa00&show_icons=true&theme=github_dark&hide_border=true'>
-		<img width="49.5%" src='https://github-readme-streak-stats.herokuapp.com?user=lirena00&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D'>
+		<img width="49.5%" src='https://streak-stats.demolab.com/?user=lirena00&theme=github-dark-blue&hide_border=true'>
 	</a>
 </div>
 <br>
